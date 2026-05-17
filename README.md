@@ -1,4 +1,4 @@
-# Customer Churn Prediction for Interconnect
+# Customer Churn Prediction for Interconnect Services
 
 ## Project Overview
 This project builds a machine learning model to predict customer churn for Interconnect, a telecom operator. The goal is to identify customers who are likely to leave so the company can target them with retention offers such as promotional pricing or alternative plans.
